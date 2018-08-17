@@ -8,3 +8,7 @@ NOTE
 Please set value time at line 29 = "datetime.now()"
 2. If you would like get Price last change of Tokens
 Please set values time at line 29 ="datetime.fromtimestamp(v['lastTimestamp'])"
+REFERENCE
+https://www.influxdata.com/
+https://github.com/influxdata/influxdb
+https://github.com/influxdata/influxdb-python
