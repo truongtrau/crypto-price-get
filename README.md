@@ -3,6 +3,7 @@
 2. Run 
 2.1 Window set Schedule call run.bat
 2.2 Linux Set crontab call job.sh
+3. Test Run get.py
 NOTE
 1. If You would like get price of all Tokens at time 
 Please set value time at line 29 = "datetime.now()"
