@@ -13,3 +13,4 @@ REFERENCE
 https://www.influxdata.com/
 https://github.com/influxdata/influxdb
 https://github.com/influxdata/influxdb-python
+https://www.tautvidas.com/blog/2017/01/tracking-market-activity-with-influxdb/
